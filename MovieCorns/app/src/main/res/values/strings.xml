@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieCorn</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="release_date">Release date: %s</string>
+    <string name="vote_average">Vote average:</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="button_play_trailer">Play Trailer</string>
+    <string name="by_author_review">by %s</string>
+    <string name="details_activity_name">Movie Details</string>
+    <string name="trailer_title">Trailers</string>
+    <string name="synopsis_title">Synopsis</string>
+    <string name="filter_favorites">Add to Favorites</string>
+    <string name="trailer_type">Trailer</string>
+    <string name="trailer_site_youtube">YouTube</string>
+    <string name="intent_warning">Detail activity must receive a movie parcelable</string>
+</resources>
